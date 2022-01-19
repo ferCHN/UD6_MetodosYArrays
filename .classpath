@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Ex1_CalcularAreaFiguras"/>
+	<classpathentry kind="src" path="Ex2_GenerarNumerosAleatorios"/>
+	<classpathentry kind="src" path="Ex3_NumeroPrimo"/>
+	<classpathentry kind="src" path="Ex4_NumeroFactorial"/>
+	<classpathentry kind="src" path="Ex5_NumeroDecimalABinario"/>
+	<classpathentry kind="src" path="Ex6_ContarCifrasNumero"/>
+	<classpathentry kind="src" path="Ex7_CambioDivisas"/>
+	<classpathentry kind="src" path="Ex8_Array10posiciones"/>
+	<classpathentry kind="src" path="Ex9_ArrayNumDel0a9"/>
+	<classpathentry kind="src" path="Ex10_ArrayPrimos"/>
+	<classpathentry kind="src" path="Ex12_ArrayAleatorios1y300"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
