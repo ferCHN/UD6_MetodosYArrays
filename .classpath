@@ -12,6 +12,7 @@
 	<classpathentry kind="src" path="Ex9_ArrayNumDel0a9"/>
 	<classpathentry kind="src" path="Ex10_ArrayPrimos"/>
 	<classpathentry kind="src" path="Ex12_ArrayAleatorios1y300"/>
+	<classpathentry kind="src" path="Ex11_MultiplicarDosArray"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
