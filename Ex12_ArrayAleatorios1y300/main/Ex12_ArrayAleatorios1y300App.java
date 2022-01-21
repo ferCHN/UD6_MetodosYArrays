@@ -52,5 +52,4 @@ public class Ex12_ArrayAleatorios1y300App {
         }
         return terminadosEn;
     }
-
 }
